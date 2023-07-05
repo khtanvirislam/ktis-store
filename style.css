@@ -1,8 +1,20 @@
+*{
+    margin: 10px;
+    padding: 5px;
+}
+button{
+    color: orangered;
+    font-size: larger;
+    font-weight: 800;
+    border: 5px solid rgb(137, 223, 8);
+    border-radius: 10px;
+}
 h3{
     color: tomato;
     font-family: 'Courier New', Courier, monospace;
 }
 #taka{
+    display: inline-block;
     color: rgb(43, 40, 40);
     font-size: larger;
     border: 5px solid rgb(111, 7, 223);
@@ -13,10 +25,9 @@ ol{
     background-color: burlywood;
     border: 5px dotted gray;
     border-radius: 10px;
-    margin-left: 20px;
+    width:900px;
+    height: 200px;
     padding: 10px 20px;
-    width:50%; 
-    text-align: justify;
 }
 
 li{
@@ -27,3 +38,4 @@ li{
     font-style:italic;
     color: darkorchid;
 }
+

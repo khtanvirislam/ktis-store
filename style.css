@@ -39,3 +39,8 @@ li{
     color: darkorchid;
 }
 
+img{
+    border: 5px solid salmon;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,29 @@
+h3{
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+}
+#taka{
+    color: rgb(43, 40, 40);
+    font-size: larger;
+    border: 5px solid rgb(111, 7, 223);
+    background-color: rgb(228, 133, 25);
+}
+
+ol{
+    background-color: burlywood;
+    border: 5px dotted gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    width:50%; 
+    text-align: justify;
+}
+
+li{
+    color: deeppink;
+}
+#sorasoori{
+    font-size: larger;
+    font-style:italic;
+    color: darkorchid;
+}
